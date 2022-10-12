@@ -1,0 +1,6 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+	cout << "Error 404" << endl;
+}
